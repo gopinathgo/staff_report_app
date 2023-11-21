@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729691862436",
+    "project_id": "staff-information-e2ea7",
+    "storage_bucket": "staff-information-e2ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729691862436:android:9b9cf10f5214e00e38fd31",
+        "android_client_info": {
+          "package_name": "com.example.report_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3N6Fk9GDjnf0pimwOdd2YiOdEpSmJ60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
